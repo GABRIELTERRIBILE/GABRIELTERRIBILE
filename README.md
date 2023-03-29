@@ -5,7 +5,7 @@
 
 ```js
 const name = 'Gabriel Terribile';
-const status = [" Software Developer", "SGBR SISTEMAS"];
+const status = [" Software Developer", "SGBR Sistemas"];
 
 const activities = { 
   learning : ['C#'],
@@ -60,8 +60,7 @@ const skills = {
 <h4>Atualmente estudando</h4>	
 <div>
   <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
+    alt="C#"
   />
 </div>
 </div>
@@ -73,7 +72,7 @@ const skills = {
   <a href = "mailto:gterribele@hotmail.com">
 	  <img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
-  <a href="https://www.linkedin.com/in/gabrielterribile" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-terribile" target="_blank">
 	  <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
