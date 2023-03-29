@@ -1,7 +1,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
 
 <div>
-<img align="right" src="images/astro-PhotoRoom.png" alt="developer room" width="300rem">
+<img align="right" src="images/astro.png" alt="developer room" width="350rem">
 
 ```js
 const name = 'Gabriel Terribile';
