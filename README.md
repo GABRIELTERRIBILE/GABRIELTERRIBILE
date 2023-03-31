@@ -14,7 +14,7 @@ const activities = {
 const skills = {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'Vuejs', 'Vuetify', 'PHP'],
   BackEnd: ['Laravel', 'C#', 'PostgreSQL', 'MySQL', 'mariaDB', 'firebird'],
-  Others: ['Git', 'GitHub', 'Docker', 'Visual Studio 2023 pro', 'PhpStorm' 'Trello', 'ClickUp'],
+  Others: ['Git', 'GitHub', 'Docker', 'Visual Studio 2023 pro', 'PhpStorm', 'ClickUp'],
   Knowledge: ['SOLID', 'POO', 'API RESTful'],
 };
 ```
