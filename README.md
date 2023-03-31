@@ -14,7 +14,7 @@ const activities = {
 const skills = {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'Vuejs', 'Vuetify', 'PHP'],
   BackEnd: ['Laravel', 'C#', 'PostgreSQL', 'MySQL', 'mariaDB', 'firebird'],
-  Others: ['Git', 'GitHub', 'Docker'],
+  Others: ['Git', 'GitHub', 'Docker', 'Visual Studio 2023 pro', 'PhpStorm' 'Trello', 'ClickUp'],
   Knowledge: ['SOLID', 'POO', 'API RESTful'],
 };
 ```
@@ -26,6 +26,22 @@ const skills = {
 <h4>Front-End</h4>
 <div>
   <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  >
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    alt="Php"
+  >
+  <img
+    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+    alt="Vue.js"
+  >
+   <img
+    src="https://img.shields.io/badge/Vuetify-003545?style=for-the-badge&logo=vuetify&logoColor=white"
+    alt="Vuetify"
+  >
+  <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"
   >
@@ -34,16 +50,36 @@ const skills = {
     alt="CSS3"
   >
   <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="JavaScript"
+    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="Bootstrap"
   >
 </div>
 	
 <h4>Back-End</h4>
 <div>
   <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+    alt="Laravel"
+  />
+  <img
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+    alt="Csharp"
+  />
+  <img
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+    alt="MariaDB"
+  />
+  <img
+    src="https://img.shields.io/badge/Firebird-563D7C?style=for-the-badge&logo=Firebird&logoColor=white"
+    alt="Firebird"
+  /> 
+  <img
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+    alt="Postman"
   />
 </div>
 	
@@ -60,7 +96,12 @@ const skills = {
 <h4>Atualmente estudando</h4>	
 <div>
   <img
-    alt="C#"
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+    alt="Csharp"
+  />
+  <img
+    src="https://img.shields.io/badge/Asp.net-005C84?style=for-the-badge&logo=aspnet&logoColor=white"
+    alt="ASP.NET"
   />
 </div>
 </div>
@@ -70,7 +111,7 @@ const skills = {
 <h3>Onde me encontrar:</h3>
 <div align="center">
   <a href = "mailto:gterribele@hotmail.com">
-	  <img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+	  <img height="30em" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
   <a href="https://www.linkedin.com/in/gabriel-terribile" target="_blank">
 	  <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
