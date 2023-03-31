@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a) ao meu perfil do GitHub!</h1>
 
 <div>
 <img align="right" src="images/astro.png" alt="developer room" width="295rem">
