@@ -132,12 +132,3 @@ const skills = {
   ![Snake animation](https://github.com/GABRIELTERRIBILE/GABRIELTERRIBILE/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-    
-<div align="center">
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-	  <img height="30em" src="https://komarev.com/ghpvc/?username=GABRIELTERRIBILE">
-  </a>
-  <a href="https://github.com/GABRIELTERRIBILE?tab=followers">
-	  <img height="30em" src="https://img.shields.io/github/followers/GABRIELTERRIBILE? label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</div>
