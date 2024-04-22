@@ -13,8 +13,8 @@ const activities = {
 
 const skills = {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'Vuejs', 'Vuetify', 'PHP'],
-  BackEnd: ['Laravel', 'C#', 'PostgreSQL', 'MySQL', 'mariaDB', 'firebird'],
-  Others: ['Git', 'GitHub', 'Docker', 'Visual Studio 2022 pro', 'PhpStorm', 'ClickUp'],
+  BackEnd: ['Laravel', 'C#', 'PostgreSQL', 'MySQL', 'NHibernate', 'firebird', Entity Framework, VB.NET, ],
+  Others: ['Git', 'GitHub', 'GitLab', 'Docker', 'Visual Studio 2022 pro', 'PhpStorm', 'ClickUp', 'CI/CD', 'SOLID', 'MVC'],
   Knowledge: ['SOLID', 'POO', 'API RESTful'],
 };
 ```
