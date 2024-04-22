@@ -16,7 +16,7 @@ const skills = {
   BackEnd: ['Laravel', 'C#', 'PostgreSQL', 'MySQL', 'NHibernate', 'firebird',
 	 'Entity Framework', 'VB.NET', ],
   Others: ['Git', 'GitHub', 'GitLab', 'Docker', 'Visual Studio 2022 pro', 'PhpStorm',
-	'ClickUp', 'CI/CD', 'SOLID', 'MVC'],
+	'ClickUp', 'CI/CD', 'MVC'],
   Knowledge: ['SOLID', 'POO', 'API RESTful'],
 };
 ```
