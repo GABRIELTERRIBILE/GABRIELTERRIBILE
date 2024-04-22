@@ -5,7 +5,7 @@
 
 ```js
 const name = 'Gabriel Terribile';
-const status = [" Software Developer", "SGBR Sistemas"];
+const status = [" Software Developer", "INTERFOC Sistemas"];
 
 const activities = { 
   learning : ['C#'],
